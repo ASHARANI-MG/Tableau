@@ -13,7 +13,7 @@ The objective is to analyze the sales and operational data of the Super Store an
 ### 🔹 View 2
 ![Dashboard View 2](Images/Sales%20Dasboard%201.png)
 
-### 🔹 Main Dashboard
+### 🔹 Dashboard
 ![Dashboard](Images/Dashboard.png)  
 
 ---

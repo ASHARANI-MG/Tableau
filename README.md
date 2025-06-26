@@ -59,5 +59,9 @@ This project is for educational and portfolio purposes only.
 
 **Asharani M G**  
 *Data Enthusiast | Aspiring Data Analyst*
+🔗 [GitHub Profile](https://github.com/ASHARANI-MG)  
+📧 ashaa12gowda@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/asharani-m-g-a64569229/)
+
 
 

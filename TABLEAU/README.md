@@ -6,7 +6,7 @@ The objective is to analyze the sales and operational data of the Super Store an
 ---
 
 ## 📸 Dashboard Snapshot
-![Dashboard Screenshot](TABLEAU/Images/Dashboard.png)
+![Dashboard Snapshot](../Images/Dashboard.png)  
 
 ---
 

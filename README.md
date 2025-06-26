@@ -53,11 +53,6 @@ The dashboard provides insights into key business metrics such as **Sales, Profi
 
 This project is for educational and portfolio purposes only.
 
-## 🙌 Acknowledgements
-
-- Tableau Public for the dataset and visualization tools.
-- Design references based on professional dashboard standards.
-
 ---
 
 ## ✨ Created By

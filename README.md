@@ -1,6 +1,6 @@
-# Sales Performance Dashboard - Tableau
+# Superstore Analytics report - Tableau
 
-This project is an interactive **Sales Performance Dashboard** built using Tableau, designed to analyze and visualize the sales performance of a retail business using the **Sample Superstore dataset**.
+This project is an interactive **Superstore Analytics report** built using Tableau, designed to analyze and visualize the sales performance of a retail business using the **Sample Superstore dataset**.
 
 ## 🚀 Project Overview
 
@@ -26,9 +26,9 @@ The dashboard provides insights into key business metrics such as **Sales, Profi
 
 ## 🧠 Metrics Calculated
 
+- **Sales:** Total revenue generated from orders.
 - **Profit Margin:** `(Total Profit / Total Sales) * 100`
 - **Return Rate:** `(Number of Returned Orders / Total Orders) * 100`
-- **Dynamic Metric:** Based on selected parameter (Sales, Profit, or # Orders)
 
 ## 🔗 Dataset
 
@@ -37,8 +37,6 @@ The dashboard provides insights into key business metrics such as **Sales, Profi
 ## 🛠️ Tools Used
 
 - Tableau Desktop
-- Excel (for Returns Data)
-- GitHub (for version control)
 
 ## 📥 Installation / Usage
 
@@ -47,7 +45,7 @@ The dashboard provides insights into key business metrics such as **Sales, Profi
 3. Ensure the Sample Superstore dataset is correctly connected.
 4. Explore the dashboard and interact with filters and metrics.
 
-## 📸 Screenshot
+## 📸 Dashboard
 
 ![Dashboard Screenshot](TABLEAU/Images/Dashboard.png)  
 
@@ -64,6 +62,7 @@ This project is for educational and portfolio purposes only.
 
 ## ✨ Created By
 
-**Asha**  
+**Asharani M G**  
 *Data Enthusiast | Aspiring Data Analyst*
+
 

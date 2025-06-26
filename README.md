@@ -9,7 +9,7 @@ The dashboard provides insights into key business metrics such as **Sales, Profi
 ## 🎯 Key Features
 
 - ✅ **Dynamic KPI Cards** — Display Sales, Profit Margin, and Return Rate with customized number formatting.
-- ✅ **Metric Parameter Selector** — Switch between **Sales, Profit, and Number of Orders (# Orders)** dynamically across all charts.
+- ✅ **Metric Parameter Selector** — Switch between **Sales, Profit, and Number of Orders** dynamically across all charts.
 - ✅ **Interactive Filter Panel** — Includes **Region** and **Year** filters with a **Show/Hide Toggle Button** for a cleaner user experience.
 - ✅ **Top 5 Products Table** — Automatically updates based on the selected metric using **Rank functions**.
 - ✅ **Filter Actions** — Clicking on the Category chart dynamically filters all other charts and KPI cards.
